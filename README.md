@@ -1,2 +1,2 @@
 # Music Landing Page
-## check this out [&rarr;](http://music-landing-page.me/index/)
+## check this out [&rarr;](https://rocksride.github.io/MusicallyLandingPage/)
